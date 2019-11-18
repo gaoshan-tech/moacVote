@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0aef03ed-b604-4b7e-94d9-e436356ea482" name="lewa-test" url="http://47.100.127.138">
+        <fileTransfer host="47.100.127.138" port="33389" rootFolder="/home/service/admin-web" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="33389" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="56c17a22-0933-48be-82e8-970b226eab3e" name="licai" url="http://47.111.101.151">
+        <fileTransfer host="47.111.101.151" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

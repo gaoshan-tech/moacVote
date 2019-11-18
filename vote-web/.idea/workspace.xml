@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="914093d8-bba7-45eb-8a62-a66150f6d789" name="默认更改列表" comment="" />
+    <ignored path="$PROJECT_DIR$/node_modules/" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1830">
+              <caret line="61" column="14" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/router/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="89" selection-start-line="89" selection-end-line="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/views/vote-manage/index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="176" column="17" selection-start-line="176" selection-start-column="17" selection-end-line="176" selection-end-column="17" />
+              <folding>
+                <element signature="n#el-button#0;n#div#0;n#el-card#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#el-button#1;n#div#0;n#el-card#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#div#1;n#el-card#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-image#0;n#template#0;n#el-table-column#1;n#el-table#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#6;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/admin-manage/index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1650">
+              <caret line="66" column="35" selection-start-line="66" selection-start-column="35" selection-end-line="66" selection-end-column="35" />
+              <folding>
+                <element signature="n#el-button#0;n#div#0;n#el-card#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#el-button#1;n#div#0;n#el-card#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#style#0;n#div#1;n#el-card#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-input#0;n#el-form-item#1;n#el-form#0;n#div#1;n#el-card#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-input#0;n#el-form-item#2;n#el-form#0;n#div#1;n#el-card#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-table#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-image#0;n#template#0;n#el-table-column#1;n#el-table#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-image#1;n#template#0;n#el-table-column#1;n#el-table#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-input#0;n#el-form-item#0;n#el-form#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-input#0;n#el-form-item#1;n#el-form#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-input#0;n#el-form-item#2;n#el-form#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-input#0;n#el-form-item#3;n#el-form#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/login/index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="80" column="23" selection-start-line="80" selection-start-column="23" selection-end-line="80" selection-end-column="23" />
+              <folding>
+                <element signature="n#template#0;n#!!top" />
+                <element signature="n#style#0;n#span#0;n#p#1;n#el-form#0;n#el-card#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#svg-icon#0;n#span#0;n#el-input#0;n#el-form-item#0;n#el-form#0;n#el-card#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-form-item#2;n#el-form#0;n#el-card#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-button#0;n#el-form-item#2;n#el-form#0;n#el-card#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="e#2105#2154#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/views/layout/components/Navbar.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3960">
+              <caret line="135" column="28" selection-start-line="135" selection-start-column="28" selection-end-line="135" selection-end-column="28" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#el-dropdown-item#1;n#el-dropdown-menu#0;n#el-dropdown#0;n#el-menu#0;n#template#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/api/vote-api.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/utils/request.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1980">
+              <caret line="66" column="16" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/styles/index.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7560">
+              <caret line="252" column="20" selection-start-line="252" selection-start-column="20" selection-end-line="252" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>添加</find>
+      <find>handleSelectionChange</find>
+      <find>删除</find>
+      <find>dialo</find>
+      <find>dialogFormVisible</find>
+      <find>投票详情</find>
+      <find>getVoteList</find>
+      <find>el-dialog</find>
+      <find>rules</find>
+      <find>addAdminUser</find>
+      <find>handleDelVote</find>
+      <find>form</find>
+      <find>toNumber</find>
+      <find>lookBlackList</find>
+      <find>this.router.push</find>
+      <find>黑名单</find>
+      <find>handleAddAdmin</find>
+      <find>{path: '</find>
+      <find>updateAdminUser</find>
+      <find>handleDelAdmin</find>
+      <find>dialogData</find>
+      <find>extraForm</find>
+      <find>console.log(base64);</find>
+      <find>onload</find>
+      <find>getBase64Image</find>
+      <find>退出</find>
+      <find>版本</find>
+      <find>srcList</find>
+      <find>avatar-wrapper</find>
+      <find>src</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>矿机托管</replace>
+      <replace>矿机托管产出</replace>
+      <replace>@/api/</replace>
+      <replace>this.total = Number(response.data.total);</replace>
+      <replace />
+      <replace>{{$moment(Number(scope.row.startDate)).format('YYYY-MM-DD hh:mm:ss')}}</replace>
+      <replace>{{$moment(Number(scope.row.endDate)).format('YYYY-MM-DD hh:mm:ss')}}</replace>
+      <replace>value-format=&quot;yyyy-MM-dd HH:mm:ss&quot;</replace>
+      <replace>充币</replace>
+      <replace>挖矿气泡收集</replace>
+      <replace>GPU活期转量化</replace>
+      <replace>getOutCashTransferList</replace>
+      <replace>getCashTransferList</replace>
+      <replace>this.viKeyId</replace>
+      <replace>真实姓名</replace>
+      <replace>format('YYYY-MM-DD HH:mm:ss')</replace>
+      <replace>昵称</replace>
+      <replace>投票后台管理系统</replace>
+      <replace>handleAddWhite</replace>
+      <replace>handleDelAdmin</replace>
+      <replace>getAdminUserPage</replace>
+      <replace>handleDelList</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\workspace\lewa-admin</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop-del" />
+      </map>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/router/index.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/api/vote-api.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/views/layout/components/Navbar.vue" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/views/login/index.vue" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/views/admin-manage/index.vue" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/views/packageManage/packageList.vue" />
+        <option value="$PROJECT_DIR$/src/views/partnerManage/inviteMsg.vue" />
+        <option value="$PROJECT_DIR$/src/views/partnerManage/partnerPackageList.vue" />
+        <option value="$PROJECT_DIR$/src/views/Notice/add.vue" />
+        <option value="$PROJECT_DIR$/src/api/powerManage.js" />
+        <option value="$PROJECT_DIR$/src/views/Notice/index.vue" />
+        <option value="$PROJECT_DIR$/src/views/packageManage/questionList.vue" />
+        <option value="$PROJECT_DIR$/src/views/verifyInfoManage/index.vue" />
+        <option value="$PROJECT_DIR$/src/views/partnerManage/userSaleInfo.vue" />
+        <option value="$PROJECT_DIR$/src/views/partnerManage/salesMsg.vue" />
+        <option value="$PROJECT_DIR$/src/views/userManage/kycList.vue" />
+        <option value="$PROJECT_DIR$/src/views/powerManage/powerTransferList.vue" />
+        <option value="$PROJECT_DIR$/src/views/moneyManage/mcInCash.vue" />
+        <option value="$PROJECT_DIR$/src/views/moneyManage/mcOutCash.vue" />
+        <option value="$PROJECT_DIR$/src/api/moneyManage.js" />
+        <option value="$PROJECT_DIR$/src/api/userList.js" />
+        <option value="$PROJECT_DIR$/src/views/moneyManage/chargeWithdrawalList.vue" />
+        <option value="$PROJECT_DIR$/src/views/packageManage/questionDetailList.vue" />
+        <option value="$PROJECT_DIR$/src/views/systemManage/roleManage/index.vue" />
+        <option value="$PROJECT_DIR$/src/views/userManage/userTree.vue" />
+        <option value="$PROJECT_DIR$/src/views/userManage/getHistoryMiningProfitList.vue" />
+        <option value="$PROJECT_DIR$/src/views/moneyManage/gpuInCashList.vue" />
+        <option value="$PROJECT_DIR$/src/views/moneyManage/cashTransferList.vue" />
+        <option value="$PROJECT_DIR$/src/api/userAdminManage.js" />
+        <option value="$PROJECT_DIR$/src/views/systemManage/userAdminManage/index.vue" />
+        <option value="$USER_HOME$/Downloads/递归.html" />
+        <option value="$PROJECT_DIR$/src/views/packageManage/globalConfigList.vue" />
+        <option value="$PROJECT_DIR$/src/views/userManage/userList.vue" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/views/vote-creator-manage/index.vue" />
+        <option value="$PROJECT_DIR$/src/views/vote-manage/voteDetails.vue" />
+        <option value="$PROJECT_DIR$/src/api/voteManage.js.vue" />
+        <option value="$PROJECT_DIR$/src/api/voteManage.js" />
+        <option value="$PROJECT_DIR$/src/views/moneyManage/sendForwardList.vue" />
+        <option value="$PROJECT_DIR$/src/views/layout/components/Sidebar/SidebarItem.vue" />
+        <option value="$PROJECT_DIR$/src/views/login/index.vue" />
+        <option value="$PROJECT_DIR$/src/views/login/changePassword.vue" />
+        <option value="$PROJECT_DIR$/src/router/index.js" />
+        <option value="$PROJECT_DIR$/src/views/layout/components/Sidebar/index.vue" />
+        <option value="$PROJECT_DIR$/config/index.js" />
+        <option value="$PROJECT_DIR$/config/prod.env.js" />
+        <option value="$PROJECT_DIR$/src/common.js" />
+        <option value="$PROJECT_DIR$/src/styles/index.scss" />
+        <option value="$PROJECT_DIR$/src/utils/request.js" />
+        <option value="$PROJECT_DIR$/src/views/vote-manage/whitelist.vue" />
+        <option value="$PROJECT_DIR$/src/api/vote-api.js" />
+        <option value="$PROJECT_DIR$/src/views/vote-manage/blacklist.vue" />
+        <option value="$PROJECT_DIR$/src/components/ScrollBar/index.vue" />
+        <option value="$PROJECT_DIR$/src/views/layout/components/Navbar.vue" />
+        <option value="$PROJECT_DIR$/src/views/admin-manage/index.vue" />
+        <option value="$PROJECT_DIR$/src/views/vote-manage/index.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1076" />
+    <option name="y" value="3" />
+    <option name="width" value="848" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vote-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vote-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vote-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vote-web" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vote-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vote-web" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vote-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vote-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vote-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vote-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vote-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vote-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vote-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vote-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vote-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vote-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vote-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vote-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="admin-manage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vote-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vote-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vote-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vote-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="vote-manage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vote-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vote-web" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vote-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vote-web" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="D:\workspace\lewa-admin\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\vote-web\src\assets\images" />
+      <recent name="D:\workspace\financial-management\src\api" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="914093d8-bba7-45eb-8a62-a66150f6d789" name="默认更改列表" comment="" />
+      <created>1568950254223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568950254223</updated>
+      <workItem from="1568950255460" duration="604000" />
+      <workItem from="1568970499439" duration="3503000" />
+      <workItem from="1569030381379" duration="1767000" />
+      <workItem from="1569036398513" duration="3761000" />
+      <workItem from="1569202517559" duration="874000" />
+      <workItem from="1569296193369" duration="1233000" />
+      <workItem from="1569309278586" duration="9309000" />
+      <workItem from="1569379744434" duration="553000" />
+      <workItem from="1569380639444" duration="782000" />
+      <workItem from="1569381901460" duration="15798000" />
+      <workItem from="1569461988976" duration="31780000" />
+      <workItem from="1569641930901" duration="393000" />
+      <workItem from="1570513649157" duration="18885000" />
+      <workItem from="1570615381053" duration="4379000" />
+      <workItem from="1570671195190" duration="38478000" />
+      <workItem from="1570798398282" duration="636000" />
+      <workItem from="1570845463869" duration="23005000" />
+      <workItem from="1571024068158" duration="1619000" />
+      <workItem from="1571027767600" duration="1793000" />
+      <workItem from="1571034120457" duration="602000" />
+      <workItem from="1571036937931" duration="10972000" />
+      <workItem from="1571191136361" duration="2434000" />
+      <workItem from="1571206432221" duration="26710000" />
+      <workItem from="1571383614202" duration="8824000" />
+      <workItem from="1571623719606" duration="21039000" />
+      <workItem from="1571725997353" duration="40129000" />
+      <workItem from="1571829418829" duration="6362000" />
+      <workItem from="1573180301434" duration="28761000" />
+      <workItem from="1573386154305" duration="12739000" />
+      <workItem from="1573443361385" duration="4622000" />
+      <workItem from="1573618651377" duration="1822000" />
+      <workItem from="1573695577477" duration="18462000" />
+      <workItem from="1573726820916" duration="763000" />
+      <workItem from="1573796857175" duration="2438000" />
+    </task>
+    <task id="LOCAL-00001" summary="导入lewa项目">
+      <created>1569036033575</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569036033575</updated>
+    </task>
+    <task id="LOCAL-00002" summary="删掉不必要的文件，修改内容管理模块的部分页面">
+      <created>1569376425231</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569376425231</updated>
+    </task>
+    <task id="LOCAL-00003" summary="修改页面，用户管理、算力管理、权限管理、系统管理、权限管理">
+      <created>1569489909552</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569489909552</updated>
+    </task>
+    <task id="LOCAL-00004" summary="修改页面，资金管理">
+      <created>1569570518543</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569570518543</updated>
+    </task>
+    <task id="LOCAL-00005" summary="登录页样式调整">
+      <created>1569578489221</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569578489222</updated>
+    </task>
+    <task id="LOCAL-00006" summary="登录页样式调整">
+      <created>1569578731675</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569578731675</updated>
+    </task>
+    <task id="LOCAL-00007" summary="登录接口">
+      <created>1570515398979</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1570515398980</updated>
+    </task>
+    <task id="LOCAL-00008" summary="删掉不要的文件，手动将total转为 int类型">
+      <created>1570591298307</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1570591298308</updated>
+    </task>
+    <task id="LOCAL-00009" summary="修改时间格式：将时间戳转成yyyy-mm-dd格式">
+      <created>1570618181721</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1570618181721</updated>
+    </task>
+    <task id="LOCAL-00010" summary="接口对接">
+      <created>1570761504091</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1570761504091</updated>
+    </task>
+    <task id="LOCAL-00011" summary="去掉u盾校验">
+      <created>1570788695687</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1570788695687</updated>
+    </task>
+    <task id="LOCAL-00012" summary="去掉u盾校验">
+      <created>1570789726123</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1570789726123</updated>
+    </task>
+    <task id="LOCAL-00013" summary="bug修改">
+      <created>1570870745132</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1570870745132</updated>
+    </task>
+    <task id="LOCAL-00014" summary="bug修改">
+      <created>1570874393573</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1570874393573</updated>
+    </task>
+    <task id="LOCAL-00015" summary="添加导出功能，完成接口对接">
+      <created>1571108945438</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1571108945438</updated>
+    </task>
+    <task id="LOCAL-00016" summary="交易记录按需取值">
+      <created>1571193872035</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1571193872035</updated>
+    </task>
+    <task id="LOCAL-00017" summary="1.完成GPU人工充扣币记录和领导人奖励发放记录页面开发,完成接口对接；&#10;2.完成用户列表的修改资金（GPU人工充扣币记录和领导人奖励发放记录）页面开发和功能接口的对接；">
+      <created>1571309049299</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1571309049299</updated>
+    </task>
+    <task id="LOCAL-00018" summary="页面优化">
+      <created>1571394214541</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1571394214541</updated>
+    </task>
+    <task id="LOCAL-00019" summary="页面优化，完善需求">
+      <created>1571653512890</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1571653512890</updated>
+    </task>
+    <task id="LOCAL-00020" summary="团队业绩管理列表页增加日期；&#10;交易记录增加转入和转出账户，并且增加创建时间的筛选项；&#10;删掉项目中冗余和不需要的代码；">
+      <created>1571714224170</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1571714224170</updated>
+    </task>
+    <task id="LOCAL-00021" summary="修改测试测出来的bug">
+      <created>1571740257884</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1571740257884</updated>
+    </task>
+    <task id="LOCAL-00022" summary="修改测试测出来的bug">
+      <created>1571742012725</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1571742012725</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="346001000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.79689705" visible="true" weight="0.20895523" />
+      <window_info id="Structure" order="1" sideWeight="0.31308413" side_tool="true" weight="0.14658849" />
+      <window_info id="npm" order="2" sideWeight="0.20310296" side_tool="true" weight="0.21801706" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.19821826" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" weight="0.38752785" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32962137" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49947312" weight="0.21046771" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50159913" side_tool="true" weight="0.1792873" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4989339" weight="0.34855235" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="调试" order="12" />
+      <window_info anchor="bottom" id="File Transfer" order="13" weight="0.21603563" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.07036247" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.79689705" visible="true" weight="0.21801706" />
+      <window_info id="Structure" order="1" sideWeight="0.31308413" side_tool="true" weight="0.14658849" />
+      <window_info id="npm" order="2" sideWeight="0.20310296" side_tool="true" weight="0.21801706" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.19821826" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.13028954" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32962137" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49947312" weight="0.21046771" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50159913" side_tool="true" weight="0.1792873" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4989339" weight="0.34855235" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="调试" order="12" />
+      <window_info anchor="bottom" id="File Transfer" order="13" weight="0.21603563" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.07036247" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="导入lewa项目" />
+    <MESSAGE value="删掉不必要的文件，修改内容管理模块的部分页面" />
+    <MESSAGE value="修改页面，用户管理、算力管理、权限管理、系统管理、权限管理" />
+    <MESSAGE value="修改页面，资金管理" />
+    <MESSAGE value="登录页样式调整" />
+    <MESSAGE value="登录接口" />
+    <MESSAGE value="删掉不要的文件，手动将total转为 int类型" />
+    <MESSAGE value="修改时间格式：将时间戳转成yyyy-mm-dd格式" />
+    <MESSAGE value="接口对接" />
+    <MESSAGE value="去掉u盾校验" />
+    <MESSAGE value="bug修改" />
+    <MESSAGE value="添加导出功能，完成接口对接" />
+    <MESSAGE value="交易记录按需取值" />
+    <MESSAGE value="1.完成GPU人工充扣币记录和领导人奖励发放记录页面开发,完成接口对接；&#10;2.完成用户列表的修改资金（GPU人工充扣币记录和领导人奖励发放记录）页面开发和功能接口的对接；" />
+    <MESSAGE value="页面优化" />
+    <MESSAGE value="页面优化，完善需求" />
+    <MESSAGE value="团队业绩管理列表页增加日期；&#10;交易记录增加转入和转出账户，并且增加创建时间的筛选项；&#10;删掉项目中冗余和不需要的代码；" />
+    <MESSAGE value="修改测试测出来的bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改测试测出来的bug" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/views/userManage/kycList.vue</url>
+          <line>92</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/views/powerManage/powerTransferList.vue</url>
+          <line>243</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/views/vote-manage/blacklist.vue</url>
+          <line>20</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/views/Notice/index.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/packageManage/questionList.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/verifyInfoManage/index.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/userManage/kycList.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/powerManage/powerTransferList.vue" />
+    <entry file="file://$PROJECT_DIR$/src/api/userList.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/moneyManage.js" />
+    <entry file="file://$PROJECT_DIR$/src/views/Notice/add.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/packageManage/questionDetailList.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/systemManage/roleManage/index.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/userManage/userTree.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/userManage/getHistoryMiningProfitList.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/moneyManage/mcOutCash.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/moneyManage/mcInCash.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/moneyManage/gpuInCashList.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/moneyManage/cashTransferList.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/packageManage/globalConfigList.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/systemManage/userAdminManage/index.vue" />
+    <entry file="file://$PROJECT_DIR$/src/api/userAdminManage.js" />
+    <entry file="file://$USER_HOME$/Downloads/递归.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="69" column="40" selection-start-line="69" selection-start-column="40" selection-end-line="69" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/userManage/userList.vue" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/layout/components/Sidebar/SidebarItem.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="6" column="108" selection-start-line="6" selection-start-column="102" selection-end-line="6" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Breadcrumb/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-330">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/vote-creator-manage/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/voteManage.js.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/moneyManage/sendForwardList.vue" />
+    <entry file="file://$PROJECT_DIR$/src/api/bannerManage.js" />
+    <entry file="file://$PROJECT_DIR$/src/api/voteManage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" selection-start-line="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/login/changePassword.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="96" column="30" lean-forward="true" selection-start-line="96" selection-start-column="30" selection-end-line="96" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/moneyManage/chargeWithdrawalList.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/layout/components/Sidebar/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="62" column="36" lean-forward="true" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret column="572" lean-forward="true" selection-start-column="572" selection-end-column="572" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/countManage.js" />
+    <entry file="file://$PROJECT_DIR$/src/views/vote-manage/voteDetails.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/prod.env.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="50" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/vote-manage/whitelist.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6000">
+          <caret line="244" column="13" selection-start-line="242" selection-start-column="13" selection-end-line="244" selection-end-column="13" />
+          <folding>
+            <element signature="e#43#865#0" />
+            <element signature="n#style#0;n#el-table#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-input#0;n#el-form-item#0;n#el-form#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-input#0;n#el-form-item#1;n#el-form#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-input#0;n#el-form-item#2;n#el-form#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-input#0;n#el-form-item#3;n#el-form#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-dialog#1;n#div#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/Notice.js" />
+    <entry file="file://$PROJECT_DIR$/src/views/vote-manage/blacklist.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2520">
+          <caret line="115" column="56" selection-start-line="115" selection-start-column="56" selection-end-line="115" selection-end-column="56" />
+          <folding>
+            <element signature="e#45#1199#0" />
+            <element signature="n#style#0;n#el-input#0;n#el-form-item#0;n#el-form#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-input#0;n#el-form-item#1;n#el-form#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-input#0;n#el-form-item#2;n#el-form#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-input#0;n#el-form-item#3;n#el-form#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#el-dialog#1;n#div#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1830">
+          <caret line="61" column="14" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/admin-manage/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="66" column="35" selection-start-line="66" selection-start-column="35" selection-end-line="66" selection-end-column="35" />
+          <folding>
+            <element signature="n#el-button#0;n#div#0;n#el-card#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#el-button#1;n#div#0;n#el-card#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#div#1;n#el-card#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-input#0;n#el-form-item#1;n#el-form#0;n#div#1;n#el-card#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-input#0;n#el-form-item#2;n#el-form#0;n#div#1;n#el-card#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-table#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-image#0;n#template#0;n#el-table-column#1;n#el-table#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-image#1;n#template#0;n#el-table-column#1;n#el-table#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-input#0;n#el-form-item#0;n#el-form#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-input#0;n#el-form-item#1;n#el-form#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-input#0;n#el-form-item#2;n#el-form#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-input#0;n#el-form-item#3;n#el-form#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/login/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="80" column="23" selection-start-line="80" selection-start-column="23" selection-end-line="80" selection-end-column="23" />
+          <folding>
+            <element signature="n#template#0;n#!!top" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#el-form#0;n#el-card#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg-icon#0;n#span#0;n#el-input#0;n#el-form-item#0;n#el-form#0;n#el-card#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-form-item#2;n#el-form#0;n#el-card#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-button#0;n#el-form-item#2;n#el-form#0;n#el-card#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#2105#2154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/layout/components/Navbar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3960">
+          <caret line="135" column="28" selection-start-line="135" selection-start-column="28" selection-end-line="135" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#el-dropdown-item#1;n#el-dropdown-menu#0;n#el-dropdown#0;n#el-menu#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/vote-api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/request.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="66" column="16" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7560">
+          <caret line="252" column="20" selection-start-line="252" selection-start-column="20" selection-end-line="252" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/vote-manage/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="176" column="17" selection-start-line="176" selection-start-column="17" selection-end-line="176" selection-end-column="17" />
+          <folding>
+            <element signature="n#el-button#0;n#div#0;n#el-card#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#el-button#1;n#div#0;n#el-card#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#div#1;n#el-card#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#el-image#0;n#template#0;n#el-table-column#1;n#el-table#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#div#0;n#el-dialog#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
