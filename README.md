@@ -1,5 +1,4 @@
 # moacVote
-![1](https://github.com/gaoshan-tech/moacVote/raw/master/pic/1.jpeg)
 ##投票项目操作文档
 ###DApp使用
 1. DApp运行在tokenpocket中，tokenpocket下载地址[https://www.tokenpocket.pro]，iOS手机下载testflight版本，App Store版本无dapp store。
