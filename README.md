@@ -1,2 +1,2 @@
 # moacVote
-![](https://github.com/gaoshan-tech/moacVote/blob/master/pic/1.jpeg)
+![1](https://github.com/gaoshan-tech/moacVote/raw/master/pic/1.jpeg)
