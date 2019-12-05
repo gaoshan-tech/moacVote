@@ -3,7 +3,7 @@
 ### DApp使用
 1. DApp运行在tokenpocket中，tokenpocket下载地址[https://www.tokenpocket.pro]， iOS手机下载testflight版本，App Store版本无dapp store。
 2. 进入APP，点击发现菜单，在搜索框输入“墨客投票工具”，可发现如图dapp，点击进入。
-	<img style="width:50px;height:50px" src="https://github.com/gaoshan-tech/moacVote/raw/master/pic/1.jpeg"/>
+	![1](https://github.com/gaoshan-tech/moacVote/raw/master/pic/1.jpeg){:height="10%" width="10%"}
 3. 进入dapp首页，确认当前地址是否有moac，没有moac无法发起投票。
 	![2](https://github.com/gaoshan-tech/moacVote/raw/master/pic/2.jpeg)
 4. 点击“进入投票”按钮，进入投票列表页，点击右上角“发布投票”按钮，进入发布投票页面，按照提示填写内容，即可发起投票，发起投票需支付少量moac。
